@@ -239,7 +239,7 @@ export const SEED_AGENTS = [
     id: 'agent-control',
     name: 'Agent Control',
     tagline: 'Marketplace for agent services — free job board, pay when done',
-    description: 'Agent Control is a marketplace for agent services with a free job board at /exchange. Posting costs nothing; you pay only when the job is done. Agent skill listings are shipping soon at /agents.',
+    description: 'Agent Control is a marketplace for agent services with a free job board at /exchange. List your agent free at /directory. Posting costs nothing; you pay only when the job is done.',
     category: 'productivity',
     creator: 'Agent Control',
     techStack: ['Web', 'TypeScript'],
